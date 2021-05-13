@@ -4,6 +4,7 @@ Repository for the official Sunfall Supersampling wiki! As everybody knows, our 
 Wiki can be found at: https://github.com/MadGoat-Studio/MadGoat-SSAA-Resolution-Scale/wiki
 
 ### Asset store links
-MadGoat SSAA & Resolution Scale: SOON
-
+Sunfall Supersampling: SOON
+Sunfall Supersampling HDRP ADDON: SOON
+Sunfall Supersampling URP ADDON: SOON
 Publisher Page: SOON
