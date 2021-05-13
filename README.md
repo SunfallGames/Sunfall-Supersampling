@@ -5,6 +5,9 @@ Wiki can be found at: https://github.com/MadGoat-Studio/MadGoat-SSAA-Resolution-
 
 ### Asset store links
 Sunfall Supersampling: SOON
+
 Sunfall Supersampling HDRP ADDON: SOON
+
 Sunfall Supersampling URP ADDON: SOON
+
 Publisher Page: SOON
