@@ -4,10 +4,9 @@ Repository for the official Sunfall Supersampling wiki! As everybody knows, our 
 Wiki can be found at: https://github.com/SunfallGames/Sunfall-Supersampling/wiki
 
 ### Asset store links
-Sunfall Supersampling: SOON
+Sunfall Supersampling: https://assetstore.unity.com/packages/slug/195736
 
-Sunfall Supersampling HDRP ADDON: SOON
+Sunfall Supersampling HDRP ADDON: https://assetstore.unity.com/packages/slug/196012
 
-Sunfall Supersampling URP ADDON: SOON
+Sunfall Supersampling URP ADDON:  https://assetstore.unity.com/packages/slug/196013
 
-Publisher Page: SOON
